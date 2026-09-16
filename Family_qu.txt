@@ -1,0 +1,8 @@
+ father(hisham, salman).
+ father(wasan, salman).
+ mother(wasan, lina).
+ mother(hisham, lina).
+ brother(rakan, shaden).
+ brother(lina, salman).
+ sister(shaden, rakan).
+ sister(ahmed, nora).
