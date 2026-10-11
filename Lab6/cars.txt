@@ -1,0 +1,4 @@
+can_buy(100000, red).
+can_buy(100000, blue).
+can_buy(100000, green).
+can_buy(100000).
