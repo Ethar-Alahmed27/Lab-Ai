@@ -1,0 +1,7 @@
+We can apply Prolog operators in our Simpsons Family Tree project.
+
+Logical operators such as AND and OR can be used to combine conditions when defining family relationships.
+
+Relational operators can be used to compare values, while arithmetic operators can be used to calculate age differences between family members.
+
+These operators help us create more complex rules, improve queries, and make the knowledge base more useful.
